@@ -31,3 +31,7 @@
 - ### [Sesión 14 (Tech interview three)](./session-14/README.md)
 
 - ### [Sesión 15](./session-15/README.md)
+
+- ### [Sesión 16](./session-16/README.md)
+
+- ### [Sesión 17](./session-17/README.md)
